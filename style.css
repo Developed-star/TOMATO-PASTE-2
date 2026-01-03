@@ -1,0 +1,38 @@
+body{
+    background-color:greenyellow;
+}
+.headertop{
+    border:3px solid rgb(17, 134, 150);
+     background: whitesmoke;
+}
+.logo{
+    width: 10%;
+}
+.clearfix{
+    text-align: center;
+}
+nav{
+    text-align: right;
+    clear:right;
+    float:right;
+}
+
+li{
+    display: inline;
+    font-size: larger;
+    list-style: none;
+    color:rgb(42, 177, 9);
+    padding: none;
+    margin: none;
+    padding: 14px;
+  
+}
+a{
+      text-decoration: none;
+}
+a:hover {
+  background-color: #111;
+}
+.active{
+    background:red;
+}
